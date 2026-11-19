@@ -2,7 +2,7 @@
 
 **Caught 7 cash mismatches worth ₹6,897 across 36 COD orders, automatically, using Excel.**
 
-![What the tracker caught](dashboard.png)
+![What the tracker caught](dashboard%20(1).png)
 
 A self-project I built in November 2026 to understand **Cash on Delivery (COD) reconciliation** in quick-commerce logistics. Riders collect cash from customers. This tracker checks, order by order, whether the cash in the rider report matches what our system expected, and turns the result into a daily MIS report.
 
